@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+}
+.Contenedor{
+    width: 450px;
+    
+    background-color: aquamarine;
+}
+.MarcoFoto{
+    width: 200px;
+    height: 350;
+    border-radius: 30px;
+}
+
+.imagen{
+    border-radius: 30px;
+}
+.Area{
+font-size: 24px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: red;
+}
+.Etiquetas{
+    font-size: 20px;
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
